@@ -23,7 +23,7 @@
 Frontend     : React.js, React Native, Next.js, Redux, Tailwind CSS, Bootstrap, Expo, NativeWind
 Backend      : Node.js, NestJS, Express.js, PostgreSQL, SQLite, Prisma
 Languages    : JavaScript, TypeScript, SQL, HTML5, CSS3
-State Mgmt   : Zustand, React Query
+state management   : Zustand, React Query
 Authentication: JWT, Passport.js, bcrypt, argon2, SecureStore
 Dev Tools    : Git, GitHub, Docker, Agile, Scrum, OOP
 ```
