@@ -50,10 +50,9 @@ Dev Tools    : Git, GitHub, Docker, Agile, Scrum, OOP
 
 ### 🔗 Let's Connect
 
-* 💼 [**Portfolio**](https://your-portfolio-link.com)
-* 💬 [**LinkedIn**](https://www.linkedin.com/in/omar-yasser)
+* 💼 [**Portfolio**](https://omar-yassser.vercel.app/)
+* 💬 [**LinkedIn**](https://www.linkedin.com/in/omaryvsser/)
 * 📧 [**Email**](mailto:omar1yasser@outlook.com)
-* 🐙 [**GitHub**](https://github.com/OmarYasser)
 * 📱 **+201015541807**
 
 ---
@@ -61,8 +60,8 @@ Dev Tools    : Git, GitHub, Docker, Agile, Scrum, OOP
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarYasser&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarYasser&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-YasserVV&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Omar-YasserVV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
