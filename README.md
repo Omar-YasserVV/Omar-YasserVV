@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Building Scalable Web & Mobile Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Next.js;Frontend+Focused;Forever+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0AFFEF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Next.js+%7C+Node.js+%7C+NestJS;Frontend+Focused;Forever+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
