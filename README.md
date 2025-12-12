@@ -59,10 +59,10 @@ Dev Tools    : Git, GitHub, Docker, Agile, Scrum, OOP
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omar-YasserVV&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Omar-YasserVV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
