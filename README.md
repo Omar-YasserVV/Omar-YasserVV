@@ -55,17 +55,6 @@ Dev Tools    : Git, GitHub, Docker, Agile, Scrum, OOP
 * 📧 [**Email**](mailto:omar1yasser@outlook.com)
 * 📱 **+201015541807**
 
----
-
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-YasserVV&show_icons=true&theme=tokyonight" alt="Omar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Omar-YasserVV&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> -->
-
----
-
 ### 📜 Certifications
 
 - **The Complete Full-Stack Web Development Bootcamp** | Udemy | 2024
